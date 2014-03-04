@@ -1,0 +1,251 @@
+{
+    "created_at": "Sun Mar 02 06:17:50 +0000 2014",
+    "id": 440008058887237600,
+    "id_str": "440008058887237632",
+    "text": "Finna tweet my emotions ready?",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 509094010,
+        "id_str": "509094010",
+        "name": "My Name Is Anthony",
+        "screen_name": "TheWhiteAnthony",
+        "location": "",
+        "url": null,
+        "description": "Graduated im 18 #Hockey #baseball #soccer #TheFamily I am VP of #WaVyGang Male Stripper im happily taken sorry",
+        "protected": false,
+        "followers_count": 1848,
+        "friends_count": 1347,
+        "listed_count": 3,
+        "created_at": "Wed Feb 29 18:31:06 +0000 2012",
+        "favourites_count": 19569,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22885,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C1EBC6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581415737/msacqdqjs33uck1w0jaq.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581415737/msacqdqjs33uck1w0jaq.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/439855735233843200/CtgZVWX9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/439855735233843200/CtgZVWX9_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/509094010/1393134978",
+        "profile_link_color": "B3009E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            43.0126792,
+            -74.64055348
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -74.64055348,
+            43.0126792
+        ]
+    },
+    "place": {
+        "id": "94965b2c45386f87",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+        "place_type": "admin",
+        "name": "New York",
+        "full_name": "New York, US",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477399
+                    ],
+                    [
+                        -79.76259,
+                        45.015865
+                    ],
+                    [
+                        -71.777491,
+                        45.015865
+                    ],
+                    [
+                        -71.777491,
+                        40.477399
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en"
+}{
+    "created_at": "Sun Mar 02 06:17:50 +0000 2014",
+    "id": 440008059231146000,
+    "id_str": "440008059231145984",
+    "text": "Some of the people I know with nice ass nails used to have terrible nail biting habits like me! Now I know its possible! #ornah #lolol #hope",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 341144771,
+        "id_str": "341144771",
+        "name": "Xx~Kaitlin~xX",
+        "screen_name": "Kat_Hernz",
+        "location": "bumpin' in, NYC",
+        "url": null,
+        "description": "It's Kaitlin bitch! ❤ ✌ \r\n#LankyMenAreSexy",
+        "protected": false,
+        "followers_count": 109,
+        "friends_count": 93,
+        "listed_count": 0,
+        "created_at": "Sat Jul 23 21:51:26 +0000 2011",
+        "favourites_count": 8064,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15280,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CCADDE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/789891889/7211cdb0c1999d94e0d43a204063632f.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/789891889/7211cdb0c1999d94e0d43a204063632f.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000403734963/092889ae2432cc413e0d7e62100ee522_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000403734963/092889ae2432cc413e0d7e62100ee522_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/341144771/1384806837",
+        "profile_link_color": "F259E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "6FF2A8",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": {
+        "type": "Point",
+        "coordinates": [
+            43.4542181,
+            -76.5400865
+        ]
+    },
+    "coordinates": {
+        "type": "Point",
+        "coordinates": [
+            -76.5400865,
+            43.4542181
+        ]
+    },
+    "place": {
+        "id": "94965b2c45386f87",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+        "place_type": "admin",
+        "name": "New York",
+        "full_name": "New York, US",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        -79.76259,
+                        40.477399
+                    ],
+                    [
+                        -79.76259,
+                        45.015865
+                    ],
+                    [
+                        -71.777491,
+                        45.015865
+                    ],
+                    [
+                        -71.777491,
+                        40.477399
+                    ]
+                ]
+            ]
+        },
+        "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [
+            {
+                "text": "ornah",
+                "indices": [
+                    121,
+                    127
+                ]
+            },
+            {
+                "text": "lolol",
+                "indices": [
+                    128,
+                    134
+                ]
+            },
+            {
+                "text": "hope",
+                "indices": [
+                    135,
+                    140
+                ]
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en"
+}
