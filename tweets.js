@@ -17,41 +17,30 @@ http.createServer(function(request, response) {
 
 console.log('Listening on http://127.0.0.1:8000');
 
-var sw = '-73.68,42.72', ne = '-73.67,42.73';
-var options = {encoding: 'utf8'};
-var writeStream = fs.createWriteStream('ITWS4200-lab5-zonej.json');
-var count = 1;
+var i = 0;
+var tweets = [];
 
-writeStream.write('[');
-
-twit.stream('statuses/filter', {'locations':sw + ',' + ne},
-	function(stream) {
+twit.stream('statuses/sample', function(stream) {
 
 		stream.on('error', function(error, code) {
-  				 console.log("My error: " + error + ": " + code);
+			console.log("My error: " + error + ": " + code);
 		});
 		
 		stream.on('data', function (data) {
-			jdata = JSON.stringify(data, null, 4);
-			
-			writeStream.setMaxListeners(0);
-			
-			writeStream.on('error', function(err) {
-				console.log(err);
-			});
-
-			writeStream.write(jdata + ",");
-			
-			if(count % 10 == 0) {
-				console.log(count);
+			if(i < 1000) {
+				if(i % 20 == 0) {
+					console.log(i);
+				}
+				tweets.push(data);
+				i++;
 			}
-
-			if(count == 1000) {
-				writeStream.write(']');
-
-				writeStream.end();
+			else if(i == 1000){
+				fs.writeFile('ITWS4200-lab5-zonej.json', JSON.stringify(tweets, null, 4), function(err){
+					if(err) throw err;
+					console.log("Tweets saved to file!");
+					console.log("You can now close the connection");
+					i++;
+				});
 			}
-
-			count++;
 		});
 });
